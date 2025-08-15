@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why I Love You</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Why I Love You</h1>
+    <p class="content">
+      Every moment with you is magic. Your smile, your kindness, your heart — everything about you is perfect to me.
+    </p>
+    <a href="index.html" class="btn back-btn">← Back Home</a>
+  </div>
+</body>
+</html>
