@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Love for You</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">To My Love ❤️</h1>
+    <div class="buttons">
+      <a href="why.html" class="btn">Why I Love You</a>
+      <a href="ilove.html" class="btn">I Love You So Much</a>
+      <a href="world.html" class="btn">You're My World</a>
+    </div>
+  </div>
+</body>
+</html>
