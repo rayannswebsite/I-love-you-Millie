@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You're My World</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">You're My World</h1>
+    <p class="content">
+      You light up my life in ways I never imagined. Without you, nothing feels complete — you are my everything.
+    </p>
+    <a href="index.html" class="btn back-btn">← Back Home</a>
+  </div>
+</body>
+</html>
